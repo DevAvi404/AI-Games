@@ -76,11 +76,11 @@ Contributions are welcome! Please ensure that:
 
 ## License
 
-MIT
+MIT License 
 
 ## Author
 
-**Avi** - [@DevAvi404](https://github.com/DevAvi404)
+**varVoid** - [@DevAvi404](https://github.com/DevAvi404)
 
 ## Acknowledgments
 
