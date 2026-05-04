@@ -1,25 +1,91 @@
-# AI Games
+# AI-Games
 
-## Description
-This repository contains various AI algorithms and data structures implemented in Python. The projects demonstrate principles of artificial intelligence and provide a foundation for building intelligent systems.
+A comprehensive collection of core Artificial Intelligence algorithms and data structures implemented in Python.
+
+## Overview
+
+This repository contains curated implementations of fundamental AI concepts and algorithms, presented through interactive Jupyter Notebooks. Whether you're a student, researcher, or developer, this collection serves as a reference for understanding and applying key AI methodologies.
+
+## Features
+
+- **Well-Documented Code**: Clear, professional implementations with detailed explanations
+- **Interactive Notebooks**: Learn through hands-on Jupyter Notebook examples
+- **Core Algorithms**: Comprehensive coverage of essential AI and machine learning algorithms
+- **Data Structures**: Efficient implementations of critical data structures used in AI
+- **Python-Based**: Leverage the accessibility and power of Python for AI development
+
+## Repository Contents
+
+The repository is organized into focused modules, each implemented as a Jupyter Notebook:
+
+- **Algorithms**: Search algorithms, optimization techniques, and classical AI approaches
+- **Data Structures**: Trees, graphs, heaps, and other foundational structures
+- **Examples**: Practical applications and demonstrations of implemented concepts
+
+## Prerequisites
+
+- Python 3.7 or higher
+- Jupyter Notebook or JupyterLab
+- NumPy, Pandas (for specific implementations)
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/DevAvi404/AI-Games.git
+cd AI-Games
+```
+
+2. Install dependencies:
+```bash
+pip install jupyter numpy pandas
+```
+
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+## Usage
+
+Navigate to the desired notebook and open it in Jupyter Notebook. Each notebook includes:
+- Algorithm/data structure explanation
+- Step-by-step implementation
+- Example use cases
+- Performance analysis
+
+## Project Structure
+
+```
+AI-Games/
+├── README.md
+├── algorithms/
+│   └── *.ipynb
+├── data_structures/
+│   └── *.ipynb
+└── examples/
+    └── *.ipynb
+```
+
+## Contributing
+
+Contributions are welcome! Please ensure that:
+- Code is well-documented and follows PEP 8 conventions
+- New notebooks include clear explanations and examples
+- Performance implications are discussed
 
 ## License
-MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+MIT
 
-1. The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Software.
+## Author
 
-2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-   SOFTWARE.
+**Avi** - [@DevAvi404](https://github.com/DevAvi404)
+
+## Acknowledgments
+
+This collection draws from classical AI literature, academic research, and best practices in algorithm implementation.
+
+---
+
+For questions, issues, or suggestions, please open an issue or contact the repository maintainer.
